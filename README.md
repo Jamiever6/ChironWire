@@ -81,7 +81,7 @@ Qty 2 - [M3 * 8mm](https://www.amazon.se/dp/B08K8FQWCZ?ref=ppx_yo2ov_dt_b_produc
 12. install the Stealthburner head
 13. cut the 5m GT2 belt in two. You need to shorten them few cm so you have around 5-6cm left each side for later be able to grab the pair and tension it. Do a test install and cut it (check YT tutorials, the 2 belts MUST be exactly the same length - teeth on teeth and slide them though your hands without skipping teeth, measure twice and get them right)
 14. install the belts and tension them lightly (the extra length can be folded inside the X carriage). 
-15. install the MCU, Raspberry Pi, U2C and the existing 800W(!) PU. I used a leftover metal flange to anchor the PU to the underneath frame (not an elegant solution but it does the job, I am planning to design a couple of 3D printed supports - later). I did not use the secondary 24V PU
+15. install the MCU, Raspberry Pi, U2C and the existing 800W(!) PU using the PU_support_1 and _2 and the existing metal bracket (edit 2023-09-24). I did not use the secondary 24V PU
 
 ![Image](https://user-images.githubusercontent.com/24895840/268517483-84397712-d028-4870-acfc-60659794f563.png)
 
