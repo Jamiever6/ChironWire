@@ -96,3 +96,4 @@ Voron awesome community, [github](https://github.com/VoronDesign)
 [Angle bracket 90 ° ](https://www.thingiverse.com/thing:3409079)by Eternauta74
 [2020 V-Slot Aluminium Extrusion Profile ](https://www.thingiverse.com/thing:5181722)by chris_kwng
 [Raspberry Pi Camera Mount ](https://www.thingiverse.com/thing:4761307)by crsn00
+USA chiron-voron-switchwire-parts-list by TheDarkSoul97
