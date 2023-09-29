@@ -92,8 +92,13 @@ Qty 2 - [M3 * 8mm](https://www.amazon.se/dp/B08K8FQWCZ?ref=ppx_yo2ov_dt_b_produc
 CREDITS: 
 
 Voron awesome community, [github](https://github.com/VoronDesign)
+
 [Revo nozzle holder ](https://www.printables.com/model/248325-revo-nozzle-holder)by Jan
+
 [Angle bracket 90 ° ](https://www.thingiverse.com/thing:3409079)by Eternauta74
+
 [2020 V-Slot Aluminium Extrusion Profile ](https://www.thingiverse.com/thing:5181722)by chris_kwng
+
 [Raspberry Pi Camera Mount ](https://www.thingiverse.com/thing:4761307)by crsn00
+
 USA chiron-voron-switchwire-parts-list by TheDarkSoul97
