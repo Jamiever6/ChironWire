@@ -15,7 +15,7 @@ From the Voron Switchwire you have to print the complete Gantry/XZ_Axis parts, t
 
 In my case I used the following electronics:
 
-[Bigtreetech Octopus Pro ](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=39482166804578)with TMC2209 (you just need to control 3 steppers + extruder* so you can use a smaller MCU probably the best is the  [Manta M4P](https://biqu.equipment/collections/control-board/products/manta-m4p-m8p?variant=39847241154658) as it doesn't need the [U2C](https://biqu.equipment/products/bigtreetech-ebb-sb2209-can-v1-0?variant=40214284468322) and has the CP1 = no need of a Raspberry Pi)
+[Bigtreetech Octopus Pro with TMC2209 ](https://biqu.equipment/collections/control-board/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=39482166804578) (you just need to control 3 steppers + extruder* so you can use a smaller MCU probably the best is the  Manta M5P as it doesn't need the U2C*** and has the CP1 = no need of a Raspberry Pi - ***  pls check as I am familiar only with the M8P)
 U2C
 [EBB SB2209 CAN ](https://biqu.equipment/collections/expansion-board/products/bigtreetech-ebb-sb2209-can-v1-0) (*the stepper for the extruder is included here)
 [MINI12864 V2.0 LCD Screen](https://biqu.equipment/collections/lcd/products/bigtreetech-mini12864-v2-0-lcd-screen-rgb-backlight-mini-display-supports-marlin-diy-for-skr-3d-printer-part-1) 
